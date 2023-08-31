@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-aaaaaa
-=======
-aaaa
->>>>>>> e2ae22354309cef32735caf56d468e44ad3bba6f
+aaaaa
